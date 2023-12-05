@@ -13,7 +13,8 @@ Ingeniería de Sistemas Computacionales
 Este repositorio contiene un conjunto de herramientas y modelos para el procesamiento de lenguaje natural (NLP). Cada uno de los archivos y notebooks proporciona funcionalidades específicas relacionadas con el análisis de sentimiento, analogías con Word Embeddings, clasificación de textos y generación de texto. Los notebooks están diseñados para ser ejecutados en Google Colab para facilitar el acceso y la ejecución en entornos basados en la nube.
 
 # Contenido del Repositorio
-Análisis de Sentimiento (Analisis_de_sentimiento.ipynb):
+
+## Análisis de Sentimiento (Analisis_de_sentimiento.ipynb):
 
 Este notebook aborda el análisis de sentimiento en textos utilizando técnicas de PLN. Se incluyen ejemplos prácticos y la implementación de un modelo de análisis de sentimiento.
 

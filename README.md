@@ -14,21 +14,13 @@ Este repositorio contiene un conjunto de herramientas y modelos para el procesam
 
 # Contenido del Repositorio
 
-## Análisis de Sentimiento (Analisis_de_sentimiento.ipynb):
+Análisis de Sentimiento (Analisis_de_sentimiento.ipynb): Este notebook aborda el análisis de sentimiento en textos utilizando técnicas de PLN. Se incluyen ejemplos prácticos y la implementación de un modelo de análisis de sentimiento.
 
-Este notebook aborda el análisis de sentimiento en textos utilizando técnicas de PLN. Se incluyen ejemplos prácticos y la implementación de un modelo de análisis de sentimiento.
+Analogías con Word Embeddings (Analogias_con_word_embeddings.ipynb): En este archivo, se exploran las analogías de palabras mediante el uso de embeddings de palabras. Se explican conceptos clave y se proporcionan ejemplos para ilustrar la capacidad de los embeddings para capturar relaciones semánticas.
 
-Analogías con Word Embeddings (Analogias_con_word_embeddings.ipynb):
+Clasificador de Textos (Clasificador_de_textos.ipynb): El notebook se centra en la clasificación de textos mediante la implementación de un clasificador utilizando técnicas de aprendizaje automático. Se proporcionan ejemplos y se guía al usuario a través del proceso de entrenamiento y evaluación del modelo.
 
-En este archivo, se exploran las analogías de palabras mediante el uso de embeddings de palabras. Se explican conceptos clave y se proporcionan ejemplos para ilustrar la capacidad de los embeddings para capturar relaciones semánticas.
-
-Clasificador de Textos (Clasificador_de_textos.ipynb):
-
-El notebook se centra en la clasificación de textos mediante la implementación de un clasificador utilizando técnicas de aprendizaje automático. Se proporcionan ejemplos y se guía al usuario a través del proceso de entrenamiento y evaluación del modelo.
-
-Generador de Texto (Generador_de_texto.ipynb):
-
-Aquí, se presenta un modelo generativo de texto. Se explica cómo entrenar un modelo para generar texto automáticamente y se proporcionan ejemplos prácticos de su aplicación.
+Generador de Texto (Generador_de_texto.ipynb): Aquí, se presenta un modelo generativo de texto. Se explica cómo entrenar un modelo para generar texto automáticamente y se proporcionan ejemplos prácticos de su aplicación.
 
 # Cómo utilizar los Notebooks
 

@@ -39,4 +39,4 @@ Asegúrate de tener todas las bibliotecas necesarias instaladas. Puedes hacerlo 
 
 ¡Las contribuciones son bienvenidas! Si encuentras problemas, tienes ideas para mejoras o quieres añadir nuevas funcionalidades, no dudes en enviar un pull request.
 
-¡Esperamos que encuentres útiles estos recursos para tus proyectos de PLN! Si tienes alguna pregunta o sugerencia, no dudes en abrir un problema o ponerte en contacto con nosotros. ¡Disfruta explorando el fascinante mundo del procesamiento de lenguaje natural!
+¡Esperamos que encuentres útiles estos recursos para tus proyectos de NLP! Si tienes alguna pregunta o sugerencia, no dudes en abrir un problema o ponerte en contacto con nosotros. ¡Disfruta explorando el fascinante mundo del procesamiento de lenguaje natural!
